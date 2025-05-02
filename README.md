@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Tushar  
-### 🤖 AI & Mobile App Developer | Flutter & Python Enthusiast  
+### 🤖 AI & Mobile App Developer | Flutter & Python Specialist  
 
-Welcome to my GitHub! I'm a passionate developer who builds impactful digital products through mobile apps, artificial intelligence, and modern UI/UX. I love creating intuitive, scalable, and efficient applications using Flutter, Python, and web technologies.
+Welcome to my GitHub! I'm a results-driven developer passionate about crafting innovative digital solutions through mobile applications, artificial intelligence, and modern UI/UX design. I specialize in building scalable, high-performance applications using Flutter, Python, and contemporary web technologies, focusing on clean architecture, responsiveness, and user-centric design.
 
 ---
 
