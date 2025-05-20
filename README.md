@@ -56,7 +56,7 @@ Welcome to my GitHub! I'm a results-driven developer passionate about crafting i
 ## 📬 Let’s Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rktushar)  
-- 🌐 [Portfolio](https://your-portfolio.com)  
+- 🌐 [Portfolio](https://rktushar.netlify.app)  
 - 📧 Email: rktushar7@gmail.com  
 
 ---
